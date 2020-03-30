@@ -1,1 +1,2 @@
-# dots_n_boxes_final_maybe
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
